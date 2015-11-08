@@ -31,6 +31,7 @@ tounament_test_odd.py to test the tournment .py code for an even number of playe
 and odd number of players respectively.
 
 $: python tournment_test.py 
+
 $: python tournament_test_odd.py
 
-Thank youy and happy gaming.
+Thank you and happy gaming.
